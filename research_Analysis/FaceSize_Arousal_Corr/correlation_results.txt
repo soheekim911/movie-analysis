@@ -1,0 +1,9 @@
+Correlation between scene face size & arousal level
+
+Correlation of andy : 0.7186853754894582
+Correlation of tommy : 0.802402224445647
+Correlation of red : 0.5418492699604407
+Correlation of norton : 0.8453574746870642
+Correlation of bogs : 0.8860626342243381
+Correlation of skeet : 0.6075013511746966
+
